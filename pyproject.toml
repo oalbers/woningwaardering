@@ -69,6 +69,6 @@ dev = [
     "types-pyyaml==6.*",
     "PyYAML==6.*",
     "libcst==1.*",
-    "requests==2.31.*",
+    "requests>=2.31,<2.33",
     "inquirer==3.*",
 ]
